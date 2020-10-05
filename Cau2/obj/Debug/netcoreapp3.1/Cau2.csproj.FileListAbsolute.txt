@@ -1,0 +1,13 @@
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\bin\Debug\netcoreapp3.1\Cau2.exe
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\bin\Debug\netcoreapp3.1\Cau2.deps.json
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\bin\Debug\netcoreapp3.1\Cau2.runtimeconfig.json
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\bin\Debug\netcoreapp3.1\Cau2.runtimeconfig.dev.json
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\bin\Debug\netcoreapp3.1\Cau2.dll
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\bin\Debug\netcoreapp3.1\Cau2.pdb
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\obj\Debug\netcoreapp3.1\Cau2.csprojAssemblyReference.cache
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\obj\Debug\netcoreapp3.1\Cau2.AssemblyInfoInputs.cache
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\obj\Debug\netcoreapp3.1\Cau2.AssemblyInfo.cs
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\obj\Debug\netcoreapp3.1\Cau2.csproj.CoreCompileInputs.cache
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\obj\Debug\netcoreapp3.1\Cau2.dll
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\obj\Debug\netcoreapp3.1\Cau2.pdb
+C:\Tran Ngoc Phuoc Thi lan 2\Cau2\obj\Debug\netcoreapp3.1\Cau2.genruntimeconfig.cache

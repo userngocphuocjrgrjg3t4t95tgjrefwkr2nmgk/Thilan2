@@ -1,0 +1,13 @@
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\bin\Debug\netcoreapp3.1\Cau 1.exe
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\bin\Debug\netcoreapp3.1\Cau 1.deps.json
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\bin\Debug\netcoreapp3.1\Cau 1.runtimeconfig.json
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\bin\Debug\netcoreapp3.1\Cau 1.runtimeconfig.dev.json
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\bin\Debug\netcoreapp3.1\Cau 1.dll
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\bin\Debug\netcoreapp3.1\Cau 1.pdb
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\obj\Debug\netcoreapp3.1\Cau 1.csprojAssemblyReference.cache
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\obj\Debug\netcoreapp3.1\Cau 1.AssemblyInfoInputs.cache
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\obj\Debug\netcoreapp3.1\Cau 1.AssemblyInfo.cs
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\obj\Debug\netcoreapp3.1\Cau 1.csproj.CoreCompileInputs.cache
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\obj\Debug\netcoreapp3.1\Cau 1.dll
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\obj\Debug\netcoreapp3.1\Cau 1.pdb
+C:\Tran Ngoc Phuoc Thi lan 2\Cau 1\obj\Debug\netcoreapp3.1\Cau 1.genruntimeconfig.cache
